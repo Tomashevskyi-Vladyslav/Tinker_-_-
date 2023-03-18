@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Tinker_-_-", "Tinker_-_-\Tinker_-_-.pyproj", "{60213282-D9BD-437B-8E95-5A402BE7F11A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60213282-D9BD-437B-8E95-5A402BE7F11A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60213282-D9BD-437B-8E95-5A402BE7F11A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3AA8A45-FB63-4FF6-BF83-358D72AD189A}
+	EndGlobalSection
+EndGlobal
